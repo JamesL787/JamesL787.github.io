@@ -1,3 +1,3 @@
 # My Test Website
 
-For learing css, javascript and html basics.
+For learning css, javascript and html basics.
